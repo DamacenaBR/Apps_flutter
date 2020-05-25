@@ -1,0 +1,10 @@
+  name: teste
+
+  version: 1.0.0
+
+  enviroment:
+    sdk: '>=2.0.0 <3.0.0'
+  
+  dependencies:
+    intl: ^0.16.0
+    

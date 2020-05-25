@@ -1,0 +1,27 @@
+[
+    {
+    "nome" : "Feijão",
+    "descricao" : "descrição 1",
+    "preco" : 5.4
+    },
+    {
+    "nome" : "Arroz",
+    "descricao" : "descrição 2",
+    "preco" : 2.4
+    },
+    {
+    "nome" : "Leite",
+    "descricao" : "descrição 3",
+    "preco" : 6.4
+    },
+    {
+    "nome" : "Macarrão",
+    "descricao" : "descrição 4",
+    "preco" : 1.4
+    },
+    {
+    "nome" : "Sabonete",
+    "descricao" : "descrição 5",
+    "preco" : 1.6
+    }
+   ]

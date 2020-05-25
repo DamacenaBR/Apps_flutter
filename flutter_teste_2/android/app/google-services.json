@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886862963121",
+    "firebase_url": "https://brunosilva-a77d8.firebaseio.com",
+    "project_id": "brunosilva-a77d8",
+    "storage_bucket": "brunosilva-a77d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886862963121:android:d9d1b63507cb2302939d90",
+        "android_client_info": {
+          "package_name": "com.example.flutter_teste_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886862963121-rg7eqlcg1nastbdn5c748mmhoudfcaeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mObnzUwVFNvdRt3ilLIWRNl_4PH_Uh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886862963121-rg7eqlcg1nastbdn5c748mmhoudfcaeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

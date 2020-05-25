@@ -1,0 +1,27 @@
+[
+    {
+        "nome" : "Jose",
+        "email" : "jose@gmail.com",
+        "telefone" : "(83)9999-9999"
+    },
+    {
+        "nome" : "Maria",
+        "email" : "maria@gmail.com",
+        "telefone" : "(83)9999-9999"
+    },
+    {
+        "nome" : "Miguel",
+        "email" : "miguel@gmail.com",
+        "telefone" : "(83)9999-9999"
+    },
+    {
+        "nome" : "Carlos",
+        "email" : "carlos@gmail.com",
+        "telefone" : "(83)9999-9999"
+    },
+    {
+        "nome" : "Dany",
+        "email" : "dany@gmail.com",
+        "telefone" : "(83)9999-9999"
+    }
+]

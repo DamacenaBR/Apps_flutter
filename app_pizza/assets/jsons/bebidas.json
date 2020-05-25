@@ -1,0 +1,89 @@
+[ 
+  {
+      "categoria": "Água",
+      "bebidas": [
+        {
+          "nome": "09. Água De Coco 100 ml",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        },
+        {
+          "nome": "10. Água Mineral",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        },
+        
+        {
+          "nome": "11. Água Tônica",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        }            
+      ]
+    },
+    {
+      "categoria": "Sucos",
+      "bebidas": [
+        {
+          "nome": "01. Abacaxi",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        },
+        {
+          "nome": "02. Abacaxi com Hortelã",
+          "descricao": "Sem Descricao",
+          "preco": "3.00"
+        },
+        {
+          "nome": "03. Laranja",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        },
+        {
+          "nome": "04. Laranja com Acerola",
+          "descricao": "Sem Descricao",
+          "preco": "3.00"
+        },
+        {
+          "nome": "05. Limão",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        },
+        {
+          "nome": "06. Limonada Suíça",
+          "descricao": "Sem Descricao",
+          "preco": "3.00"
+        },        
+        {
+          "nome": "07. Morango",
+          "descricao": "Sem Descricao",
+          "preco": "3.00"
+        },
+        {
+          "nome": "08. Maracujá",
+          "descricao": "Sem Descricao",
+          "preco": "2.00"
+        }            
+      ]
+    },
+    
+    {
+      "categoria": "Refrigerante",
+      "bebidas": [
+        {
+          "nome": "12. Refrigerantes 600ml",
+          "descricao": "Sem Descricao",
+          "preco": "4.00"
+        },
+        {
+          "nome": "13. Refrigerantes 1L",
+          "descricao": "Sem Descricao",
+          "preco": "5.00"
+        },
+        {
+          "nome": "14. Refrigerantes 2L",
+          "descricao": "Sem Descricao",
+          "preco": "7.00"
+        }              
+      ]
+    }   
+  ]

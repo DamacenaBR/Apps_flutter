@@ -1,0 +1,708 @@
+[
+    {
+      "categoria": "Alternativos",
+      "telefones": [
+        {
+          "nome": "Artelino-Uirauna/CZ",
+          "numero": "9.9148-2096"
+        },
+        {
+          "nome": "Baixinho-CZ/SJRP",
+          "numero": "9.9680-6424"
+        },
+        {
+          "nome": "Carioca-CZ/SJRP",
+          "numero": "9.9668-8162"
+        },
+        {
+          "nome": "Cristiano-Sousa/CZ",
+          "numero": "9.8107-4627"
+        },
+        {
+          "nome": "Galega-Pau dos Ferros/CZ",
+          "numero": "(84) 9.9600-3836"
+        },
+        {
+          "nome": "Galego-Sousa/CZ",
+          "numero": "9.9145-8689"
+        },
+        {
+          "nome": "Galego-CZ/SJRP",
+          "numero": "9.9935-1788"
+        },
+        {
+          "nome": "Galego Noar",
+          "numero": "9.9985-5657"
+        },
+        {
+          "nome": "Glauber Torres-SJP/JP",
+          "numero": "9.9117-5523"
+        },
+        {
+          "nome": "Gordo-Taxista",
+          "numero": "9.9969-0815"
+        },
+        {
+          "nome": "GP Viagens-Pau dos Ferros/CZ",
+          "numero": "(84) 9.8765-7530"
+        },
+        {
+          "nome": "Ivan-CZ/SJRP",
+          "numero": "9.9939-0306"
+        },
+        {
+          "nome": "Joaquim-Sousa/CZ",
+          "numero": "9.9126-0736"
+        },
+        {
+          "nome": "Joel-Coremas/CZ",
+          "numero": "9.8164-7396"
+        },
+        {
+          "nome": "José Maria-Lavras/CZ",
+          "numero": "(88) 9.9486-7189"
+        },
+        {
+          "nome": "Junior Taxista",
+          "numero": "9.8704-1015"
+        },
+        {
+          "nome": "Lagartão-CZ/Juazeiro",
+          "numero": "9.9967-2185"
+        },
+        {
+          "nome": "Leandro Taxista",
+          "numero": "9.9142-7675"
+        },
+        {
+          "nome": "Margela-CZ/SJRP",
+          "numero": "9.9949-4226"
+        },
+        {
+          "nome": "Pedro Sucupira-Lavras/CZ",
+          "numero": "(88) 9.9229-0142"
+        },
+        {
+          "nome": "Raimundo-Catolé do Rocha/CZ",
+          "numero": "9.8859-4014"
+        },
+        {
+          "nome": "Gedron Tur Viagens e Turismo",
+          "numero": "3531-2281"
+        },
+        {
+          "nome": "Silval Tur",
+          "numero": "3531-4929"
+        }
+      ]
+    },
+    {
+      "categoria": "Emergências",
+      "telefones": [
+        {
+          "nome": "6°BPM",
+          "numero": "190"
+        },
+        {
+          "nome": "6°BPM",
+          "numero": "3531-4462"
+        },
+        {
+          "nome": "6°BPM",
+          "numero": "9.9302-1217"
+        },
+        {
+          "nome": "BOMBEIROS",
+          "numero": "193"
+        },
+        {
+          "nome": "BOMBEIROS",
+          "numero": "3531-6910"
+        },
+        {
+          "nome": "BOMBEIROS",
+          "numero": "3531-6933"
+        },
+        {
+          "nome": "Cadeira Pública Feminina",
+          "numero": "3531-2807"
+        },
+        {
+          "nome": "Delegacia Distrital",
+          "numero": "9.9404-7279"
+        },
+        {
+          "nome": "Delegacia Ditrital",
+          "numero": "3531-7005"
+        },
+        {
+          "nome": "Delegacia Regional CRECI/PB",
+          "numero": "3531-2329"
+        },
+        {
+          "nome": "Delegacia Seccional",
+          "numero": "3531-2948"
+        },
+        {
+          "nome": "Delegacia Seccional",
+          "numero": "3531-6812"
+        },
+        {
+          "nome": "HRC",
+          "numero": "3531-2736"
+        },
+        {
+          "nome": "HRC",
+          "numero": "3531-3563"
+        },
+        {
+          "nome": "HUJB",
+          "numero": "3532-4750"
+        },
+        {
+          "nome": "HUJB",
+          "numero": "3532-4760"
+        },
+        {
+          "nome": "SAMU",
+          "numero": "192"
+        },
+        {
+          "nome": "SAMU",
+          "numero": "3532-2900"
+        }
+      ]
+    },
+    {
+      "categoria": "Farmácias",
+      "telefones": [
+        {
+          "nome": "Farma Center",
+          "numero": "3531-9184"
+        },
+        {
+          "nome": "Bella Manipulados",
+          "numero": "3531-5757"
+        },
+        {
+          "nome": "Farmácia Boa Saúde ",
+          "numero": "3531-2516"
+        },
+        {
+          "nome": "Farmácia Bom Preço",
+          "numero": "3531-5777"
+        },
+        {
+          "nome": "Farmácia Coração de Jesus",
+          "numero": "3531-1753"
+        },
+        {
+          "nome": "Farmácia Cruz Vermelha - M",
+          "numero": "3531-1252"
+        },
+        {
+          "nome": "Farmácia Cruz Vermelha III",
+          "numero": "3531-1784"
+        },
+        {
+          "nome": "Farmácia Divina Luz - M",
+          "numero": "3531-1061"
+        },
+        {
+          "nome": "Farmácia Divina Luz - Kaike",
+          "numero": "3531-2075"
+        },
+        {
+          "nome": "Farmácia dos Aposentados",
+          "numero": "3531-5436"
+        },
+        {
+          "nome": "Farmácia FTB",
+          "numero": "3531-7249"
+        },
+        {
+          "nome": "Farmácia Kaká",
+          "numero": "9.9316-1914"
+        },
+        {
+          "nome": "Farmácia N.Srª de Fatima",
+          "numero": "3531-2443"
+        },
+        {
+          "nome": "Farmácia Pague Menos",
+          "numero": "3531-2660"
+        },
+        {
+          "nome": "Farmácia Pag Pouco",
+          "numero": "3531-7802"
+        },
+        {
+          "nome": "Farmácia Phitofarma",
+          "numero": "3531-7335"
+        },
+        {
+          "nome": "Farmácia RedePharma",
+          "numero": "3531-3323"
+        },
+        {
+          "nome": "Farmácia Rolim",
+          "numero": "3531-2862"
+        },
+        {
+          "nome": "Farmácia Santa Maria - Filial",
+          "numero": "3531-2045"
+        },
+        {
+          "nome": "Farmácia Santa Maria - Filial",
+          "numero": "3531-3848"
+        },
+        {
+          "nome": "Farmácia Santa Maria - Filial",
+          "numero": "3531-4387"
+        },
+        {
+          "nome": "Farmácia Santa Maria - Filial",
+          "numero": "3531-6909"
+        },
+        {
+          "nome": "Farmácia Santa Maria - Matriz",
+          "numero": "3531-4544"
+        },
+        {
+          "nome": "Farmácia São Francisco - Filial",
+          "numero": "9.9134-1668"
+        },
+        {
+          "nome": "Farmácia São Francisco - Matriz",
+          "numero": "3531-3716"
+        },
+        {
+          "nome": "Farmácia São José",
+          "numero": "3531-2430"
+        },
+        {
+          "nome": "Farmácia São Paulo - Dian",
+          "numero": "3531-1776"
+        },
+        {
+          "nome": "Farmácia São Paulo - Lulu",
+          "numero": "9.9331-7440"
+        },
+        {
+          "nome": "Farmácia Vet. CeentralVet",
+          "numero": "3531-7011"
+        },
+        {
+          "nome": "Farmácia Vida e Saúde - Filial",
+          "numero": "3531-4141"
+        },
+        {
+          "nome": "Farmácia Vida e Saúde - Matriz",
+          "numero": "3531-2496"
+        },
+        {
+          "nome": "Farmácia Viva Mais - Filial",
+          "numero": "9.9194-5574"
+        },
+        {
+          "nome": "Farmácia Viva Mais - Matriz",
+          "numero": "3531-7045"
+        },
+        {
+          "nome": "Farmafórmula",
+          "numero": "3531-1869"
+        }
+      ]
+    },
+    {
+      "categoria": "Gastronomia",
+      "telefones": [
+        {
+          "nome": "China Mania Restaurante",
+          "numero": "3531-1683"
+        },
+        {
+          "nome": "Mansão Restaurante e Forneria",
+          "numero": "3531-2648"
+        },
+        {
+          "nome": "Concita",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Boi na Brasa",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "China Art Culinaria Chinesa",
+          "numero": "3531-7763"
+        },
+        {
+          "nome": "Restaurante Avenida",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Pizzaria Tarandella",
+          "numero": "3531-1288"
+        },
+        {
+          "nome": "Restaurante Panela de Barro",
+          "numero": "9.9107-4596"
+        },
+        {
+          "nome": "Restaurante Sabor Delícia",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Dona Rosa Bistrô",
+          "numero": "99927-2090"
+        },
+        {
+          "nome": "Subway",
+          "numero": "3531-6936"
+        },
+        {
+          "nome": "Churrascaria do Motor",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Donna Tarandella",
+          "numero": "3531-4035"
+        },
+        {
+          "nome": "Restaurante Prato Cheio",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Eu Leve - Produtos Naturais",
+          "numero": "9.9182-2121"
+        },
+        {
+          "nome": "Rachid Esfiharia",
+          "numero": "9.9652-9914"
+        },
+        {
+          "nome": "Restaurante e Lanchonete Uniao",
+          "numero": "3531-3627"
+        },
+        {
+          "nome": "Lanchonete e Restaurante Sabor Paulista",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Luciano Lanches & Hamburgueria",
+          "numero": "9.9323-0569"
+        },
+        {
+          "nome": "Bargabas de Cajazeiras",
+          "numero": "9.8131-7581"
+        },
+        {
+          "nome": "Restaurante tempero de casa",
+          "numero": "9.9987-2140"
+        },
+        {
+          "nome": "Tropical Lanches",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Sabor da Casa",
+          "numero": "9.9317-5677"
+        },
+        {
+          "nome": "Ponto da Tapioca",
+          "numero": "9.9156-4433"
+        },
+        {
+          "nome": "TaBerna Vip",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Texas Restaurante e Pizzaria'",
+          "numero": "9.9152-3885"
+        },
+        {
+          "nome": "Dona Esquina Restaurante & Petiscaria",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Gluck Hamburgueria",
+          "numero": "9.9167-4176"
+        },
+        {
+          "nome": "Casa Das Massas",
+          "numero": "9.9180-1443"
+        },
+        {
+          "nome": "Encanto Nordestino",
+          "numero": "1111-1111"
+        },
+        {
+          "nome": "Le Cheff Pizzaria e Delivery",
+          "numero": "9.9958-6857"
+        },
+        {
+          "nome": "Burgdega - Burguer and Beer",
+          "numero": "9.9117-6802"
+        },
+        {
+          "nome": "Pizza Kasher",
+          "numero": "99134-8410"
+        },
+        {
+          "nome": "Panificadora, Pizzaria e Pastelaria MACIC",
+          "numero": "3531-1783"
+        },
+        {
+          "nome": "Restaurante Fazenda Urbana",
+          "numero": "99115-3399"
+        },
+        {
+          "nome": "Paulinho Lanches",
+          "numero": "9.9310-6519"
+        },
+        {
+          "nome": "Edson lanches",
+          "numero": "9.9855-1857"
+        },
+        {
+          "nome": "Pizzaria Santo Antônio",
+          "numero": "9.9300-8361"
+        },
+        {
+          "nome": "Novo Lanches",
+          "numero": "9.9188-6563"
+        },
+        {
+          "nome": "Dunga Açai",
+          "numero": "9.9316-4413"
+        },
+        {
+          "nome": "Ponto do Carneiro",
+          "numero": "9.9697-5551"
+        },
+        {
+          "nome": "Bar Dos Anões",
+          "numero": "9.9175-3528"
+        },
+        {
+          "nome": "Torroni Café",
+          "numero": "9.9374-2039"
+        },
+        {
+          "nome": "Art'Chopperia",
+          "numero": "9.9302-7113"
+        },
+        {
+          "nome": "Espaço Gourmet",
+          "numero": "9.9113-2548"
+        },
+        {
+          "nome": "Zé Pereira Panificadora",
+          "numero": "9.9181-4377"
+        },
+        {
+          "nome": "Restaurante E Balneário Novilha De Prata",
+          "numero": "9.9917-1062"
+        },
+        {
+          "nome": "Restaurante Gravatá Flat Hotel",
+          "numero": "3531-1837"
+        },
+        {
+          "nome": "Tenda Restaurante",
+          "numero": "9.9315-3199"
+        },
+        {
+          "nome": "Peixada do Eugênio",
+          "numero": "3531-1735"
+        },
+        {
+          "nome": "Restaurante Rodoviario",
+          "numero": "3531-2888"
+        }
+      ]
+    },
+    {
+      "categoria": "Hoteis",
+      "telefones": [
+        {
+          "nome": "Gravata Flat Hotel",
+          "numero": "3531-1837"
+        },
+        {
+          "nome": "Hotel Cacique",
+          "numero": "3531-1579"
+        },
+        {
+          "nome": "Hotel Cajazeiras Comfort",
+          "numero": "3531-1752"
+        },
+        {
+          "nome": "Hotel Danda",
+          "numero": "9.9125-1042"
+        },
+        {
+          "nome": "Hotel Oásis",
+          "numero": "3531-6669"
+        },
+        {
+          "nome": "Hotel Papaléguas",
+          "numero": "3531-4694"
+        }
+      ]
+    },
+    {
+      "categoria": "Imobiliarias",
+      "telefones": [
+        {
+          "nome": "Rivaldo Correia",
+          "numero": "3531-1505"
+        },
+        {
+          "nome": "Andreia Imobiliaria",
+          "numero": "9.9158-7555"
+        },
+        {
+          "nome": "Dedezão Imobiliaria",
+          "numero": "3531-3400"
+        },
+        {
+          "nome": "Edival Imobiliaria",
+          "numero": "9.9331-1333"
+        },
+        {
+          "nome": "Humberto Junior",
+          "numero": "3531-3366"
+        },
+        {
+          "nome": "E & S Imobiliaria",
+          "numero": "9.9309-0769"
+        },
+        {
+          "nome": "José Audizio Imobiliaria",
+          "numero": "3531-1439"
+        },
+        {
+          "nome": "Santa Efigênia Imobiliaria",
+          "numero": "3531-7096"
+        }
+      ]
+    },
+    {
+      "categoria": "Mortuárias",
+      "telefones": [
+        {
+          "nome": "São Sebastião",
+          "numero": "3531-2419"
+        },
+        {
+          "nome": "São Vicente de Paula",
+          "numero": "3531-1328"
+        }
+      ]
+    },
+    {
+      "categoria": "Moto Taxi",
+      "telefones": [
+        {
+          "nome": "Galego Papai Noel",
+          "numero": "9.9195-6364"
+        },
+        {
+          "nome": "Oiticicas",
+          "numero": "3531-2236"
+        },
+        {
+          "nome": "Por do Sol",
+          "numero": "3531-3115"
+        },
+        {
+          "nome": "Zona Norte",
+          "numero": "3531-3325"
+        },
+        {
+          "nome": "Edgley - Moto Táxi",
+          "numero": "9.9312-6519"
+        },
+        {
+          "nome": "Elias - Moto Táxi",
+          "numero": "9.9193-5074"
+        },
+        {
+          "nome": "Adriano - Moto Táxi",
+          "numero": "9.9104-6548"
+        }
+      ]
+    },
+    {
+      "categoria": "Radios",
+      "telefones": [
+        {
+          "nome": "Difusora",
+          "numero": "3531-4530"
+        },
+        {
+          "nome": "Estação Mais FM",
+          "numero": "3531-7692"
+        },
+        {
+          "nome": "Nova Rádio Centro",
+          "numero": "3531-3352"
+        },
+        {
+          "nome": "Rádio Alto Piranhas",
+          "numero": "3531-1235"
+        },
+        {
+          "nome": "Rádio Arapuan FM",
+          "numero": "3531-2352"
+        },
+        {
+          "nome": "Rádio Barrozo FM",
+          "numero": "3531-5054"
+        },
+        {
+          "nome": "Rádio Big FM Web",
+          "numero": "9.9320-2322"
+        },
+        {
+          "nome": "Rádio Cidade FM",
+          "numero": "3531-4379"
+        },
+        {
+          "nome": "Rádio Oeste da Paraíba",
+          "numero": "3531-4888"
+        },
+        {
+          "nome": "Rádio Patamuté FM",
+          "numero": "3531-4494"
+        },
+        {
+          "nome": "Rádio Rural",
+          "numero": "9.9927-3848"
+        }
+      ]
+    },
+    {
+      "categoria": "Transportadoras",
+      "telefones": [
+        {
+          "nome": "Agência Correios",
+          "numero": "3531-1432"
+        },
+        {
+          "nome": "Rápido Figueiredo",
+          "numero": "3531-5600"
+        },
+        {
+          "nome": "JADLOGO",
+          "numero": "9.9384-3468"
+        },
+        {
+          "nome": "Novo Horizonte",
+          "numero": "3531-5592"
+        }
+      ]
+    }
+  ]
