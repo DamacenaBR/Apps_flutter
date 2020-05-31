@@ -63,7 +63,7 @@ class _HomeState extends State<Home> {
             children: <Widget>[
               Padding(
                 padding: EdgeInsets.only(bottom: 10),
-                child: Image.asset("assets/imagens/logo1.png"),
+                child: Image.asset("assets/imagens/app3_logo.png"),
               ),
               Text(
                 "Saiba qual a melhor opção para abastecimento do seu carro",

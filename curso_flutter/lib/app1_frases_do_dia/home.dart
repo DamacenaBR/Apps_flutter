@@ -57,7 +57,7 @@ class _HomeState extends State<Home> {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            Image.asset("assets/imagens/logo.png"),
+            Image.asset("assets/imagens/app1_logo.png"),
             Text(
               _fraseGerada,
               textAlign: TextAlign.justify,

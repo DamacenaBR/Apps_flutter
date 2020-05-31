@@ -7,7 +7,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  var _imagemApp = AssetImage("assets/imagens/padrao.png");
+  var _imagemApp = AssetImage("assets/imagens/app2_padrao.png");
   var _mensagem = "Escolha uma opção abaixo";
 
   void _opcaoSelecionada(String escolhaUsuario) {
@@ -23,17 +23,17 @@ class _HomeState extends State<Home> {
     switch (escolhaApp) {
       case "pedra":
         setState(() {
-          this._imagemApp = AssetImage("assets/imagens/pedra.png");
+          this._imagemApp = AssetImage("assets/imagens/app2_pedra.png");
         });
         break;
       case "papel":
         setState(() {
-          this._imagemApp = AssetImage("assets/imagens/papel.png");
+          this._imagemApp = AssetImage("assets/imagens/app2_papel.png");
         });
         break;
       case "tesoura":
         setState(() {
-          this._imagemApp = AssetImage("assets/imagens/tesoura.png");
+          this._imagemApp = AssetImage("assets/imagens/app2_tesoura.png");
         });
         break;
     }
@@ -119,7 +119,7 @@ class _HomeState extends State<Home> {
     return GestureDetector(
       onTap: () => _opcaoSelecionada(value),
       child: Image.asset(
-        "assets/imagens/" + value + ".png",
+        "assets/imagens/app2_" + value + ".png",
         height: 100,
       ),
     );
