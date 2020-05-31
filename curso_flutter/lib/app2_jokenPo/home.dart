@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
     _testeVitoria(escolhaUsuario, escolhaApp);
   }
 
-  void _escolhaApp(String escolhaApp){
+  void _escolhaApp(String escolhaApp) {
     switch (escolhaApp) {
       case "pedra":
         setState(() {
@@ -61,7 +61,7 @@ class _HomeState extends State<Home> {
         (escolhaUsuario == "tesoura" && escolhaApp == "papel"));
   }
 
-  bool _logicaVitoriaApp(String escolhaUsuario, String escolhaApp){
+  bool _logicaVitoriaApp(String escolhaUsuario, String escolhaApp) {
     return ((escolhaApp == "pedra" && escolhaUsuario == "tesoura") ||
         (escolhaApp == "papel" && escolhaUsuario == "pedra") ||
         (escolhaApp == "tesoura" && escolhaUsuario == "papel"));
@@ -87,52 +87,41 @@ class _HomeState extends State<Home> {
   _body() {
     return Column(
       children: <Widget>[
-        Padding(
-          padding: EdgeInsets.only(top: 32, bottom: 16),
-          child: Text(
-            "Escolha do App:",
-            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            textAlign: TextAlign.center,
-          ),
-        ),
+        _mensagemText("Escolha do App:"),
         Image(
           image: this._imagemApp,
           height: 120,
         ),
-        Padding(
-          padding: EdgeInsets.only(top: 32, bottom: 16),
-          child: Text(
-            _mensagem,
-            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-          ),
-        ),
+        _mensagemText(_mensagem),
         Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
-            GestureDetector(
-              onTap: () => _opcaoSelecionada("pedra"),
-              child: Image.asset(
-                "assets/imagens/pedra.png",
-                height: 100,
-              ),
-            ),
-            GestureDetector(
-              onTap: () => _opcaoSelecionada("papel"),
-              child: Image.asset(
-                "assets/imagens/papel.png",
-                height: 100,
-              ),
-            ),
-            GestureDetector(
-              onTap: () => _opcaoSelecionada("tesoura"),
-              child: Image.asset(
-                "assets/imagens/tesoura.png",
-                height: 100,
-              ),
-            ),
+            _gestureDetector("pedra"),
+            _gestureDetector("papel"),
+            _gestureDetector("tesoura"),
           ],
         )
       ],
+    );
+  }
+
+  _mensagemText(String value) {
+    return Padding(
+      padding: EdgeInsets.only(top: 32, bottom: 16),
+      child: Text(
+        value,
+        style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+      ),
+    );
+  }
+
+  _gestureDetector(String value) {
+    return GestureDetector(
+      onTap: () => _opcaoSelecionada(value),
+      child: Image.asset(
+        "assets/imagens/" + value + ".png",
+        height: 100,
+      ),
     );
   }
 
