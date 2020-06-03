@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631420610200",
+    "firebase_url": "https://appsecretaria-9f15c.firebaseio.com",
+    "project_id": "appsecretaria-9f15c",
+    "storage_bucket": "appsecretaria-9f15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631420610200:android:66f78b8f921be7516bd2ed",
+        "android_client_info": {
+          "package_name": "com.example.app_secretaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631420610200-50udc0svma2b06qg4glrga9eug882uqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_secretaria",
+            "certificate_hash": "9a288ea7115bbfe512f17ae93842e32dc9b06882"
+          }
+        },
+        {
+          "client_id": "631420610200-3jsu7uoggphvp756va01g29hhdtmekle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Xz9QqSdo9pwWm0JvPnltV-drdtpNTXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631420610200-3jsu7uoggphvp756va01g29hhdtmekle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
