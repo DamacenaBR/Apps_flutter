@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'You have pushed the button this many times:',
             ),
             StreamBuilder(
-              stream: myHomeBLoc.saida,
+              stream: myHomeBLoc.output,
               builder: (context, snapshot) {
                 return Text(
                   '${snapshot.data}',

@@ -4,10 +4,11 @@ class MyHomeBLoc {
   int cont = 0;
 
   StreamController _streamController = StreamController();
-  Stream get saida => _streamController.stream;
+  Sink get input => _streamController.sink;
+  Stream get output => _streamController.stream;
 
   void incrementCounter(){
     cont++;
-    _streamController.sink.add(cont);
+    input.sink.add(cont);
   }
 }
