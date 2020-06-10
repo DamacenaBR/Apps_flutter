@@ -50,16 +50,20 @@ class _HomeState extends State<Home> {
   //post criar um novo produto ex: tipo subir um novo novo video
   _post() async {
     Dados post = new Dados(
-        userId: 120, id: null, title: "Titulo", body: "Corpo da postagem");
+        userId: 120, id: null, title: "Titulo", body: "Corpo da postagem - post");
 
     var corpo = json.encode(post.toJson());
 
     http.Response response = await http.post(_urlBase + "/posts",
         headers: {"Content-type": "application/json; charset=UTF-8"},
         body: corpo);
-
-    print("resposta: ${response.statusCode}");
-    print("resposta: ${response.body}");
+    if(response.statusCode == 201){
+      print("resposta: Post");
+      print("resposta: ${response.body}");
+    }
+    else{
+      print("Erro: ${response.statusCode}");
+    }
   }
 
   //put atualizar um produto obs: presisa do id do produto
@@ -75,37 +79,49 @@ class _HomeState extends State<Home> {
         headers: {"Content-type": "application/json; charset=UTF-8"},
         body: corpo);
 
-    print("resposta: ${response.statusCode}");
-    print("resposta: ${response.body}");
+    if(response.statusCode == 200){
+      print("resposta: Put");
+      print("resposta: ${response.body}");
+    }
+    else{
+      print("Erro: ${response.statusCode}");
+    }  
   }
 
   //patch atualiza recurso especifico , tipo o nome ou preço do produto
   _patch(String id) async {
-    /*var corpo2 = json.encode({
-      {"userId": 120, "body": "Corpo da postagem alterado patch"}
-    });
-    */
     Dados post = new Dados(
         userId: 120,
         id: null,
         title: null,
-        body: "Corpo da postagem alterado patch");
+        body: "Corpo da postagem alterado - patch");
     var corpo = json.encode(post.toJson());
 
     http.Response response = await http.patch(_urlBase + "/posts/${id}",
         headers: {"Content-type": "application/json; charset=UTF-8"},
         body: corpo);
 
-    print("resposta: ${response.statusCode}");
-    print("resposta: ${response.body}");
+    if(response.statusCode == 200){
+      print("resposta: Post");
+      print("resposta: ${response.body}");
+    }
+    else{
+      print("resposta: Patch");
+      print("Erro: ${response.statusCode}");
+    }
   }
 
   //delete remove o recurso. ex: remove o produto
   _delete(String id) async{
     http.Response response = await http.delete(_urlBase + "/posts/${id}");
 
-    print("resposta: ${response.statusCode}");
-    print("resposta: ${response.body}");
+    if(response.statusCode == 200){
+      print("resposta: Delete");
+      print("resposta: ${response.body}");
+    }
+    else{
+      print("Erro: ${response.statusCode}");
+    }
   }
 
   @override
