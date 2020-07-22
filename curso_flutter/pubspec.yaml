@@ -35,6 +35,7 @@ dependencies:
   sqflite: ^1.3.1 #usando base de dados armazenamento interno - sqflite
   intl: ^0.16.1 #usado para formatar data
   audioplayers: ^0.15.1 #audio players
+  video_player: ^0.10.11+2 #video players
 
 dev_dependencies:
   flutter_test:
@@ -55,6 +56,7 @@ flutter:
   assets:
     - assets/imagens/
     - assets/audios/
+    - assets/videos/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
