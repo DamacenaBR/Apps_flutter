@@ -37,6 +37,11 @@ dependencies:
   audioplayers: ^0.15.1 #audio players
   video_player: ^0.10.11+2 #video players
 
+  cloud_firestore: ^0.13.6 #Banco de dados
+  firebase_auth: ^0.16.1 #Autenticação
+  firebase_storage: ^3.1.6 #Armazenamento de arquivos
+  firebase_core: ^0.4.5 #Recursos basicos
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
