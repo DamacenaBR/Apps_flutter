@@ -1,17 +1,9 @@
-import 'package:app_chat/Home.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:app_chat/telas/Login.dart';
+import 'package:app_chat/telas/RouteGenerator.dart';
 import 'package:flutter/material.dart';
 
-void main(){
-  WidgetsFlutterBinding.ensureInitialized();
-  /*Firestore.instance.
-  collection("usuarios").
-  document("003").
-  setData(
-   {"nome":"Felipe"} 
-  );
-  */
+void main() async {
+  //WidgetsFlutterBinding.ensureInitialized();
   runApp(MeuApp());
 }
 
@@ -19,8 +11,13 @@ class MeuApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-
-      home: Home(),
+      home: Login(),
+      theme: ThemeData(
+        primaryColor: Color(0xff075E54),
+        accentColor: Color(0xff25D366),
+      ),
+      initialRoute: "/",
+      onGenerateRoute: RouteGenerator.generateRoute,
       debugShowCheckedModeBanner: false,
     );
   }
